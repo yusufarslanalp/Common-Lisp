@@ -1,0 +1,12 @@
+2 is Prime
+3 is Prime
+4 is Semi-prime
+5 is Prime
+6 is Semi-prime
+7 is Prime
+9 is Semi-prime
+10 is Semi-prime
+11 is Prime
+13 is Prime
+14 is Semi-prime
+15 is Semi-prime
