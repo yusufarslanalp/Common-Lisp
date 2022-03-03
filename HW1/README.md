@@ -32,4 +32,11 @@ This part called primecrawler. This program will read two integers from a file c
 9 is Semi-prime
 10 is Semi-prime
 
-For example: for given the input file that contains 2 and 10 we expect your output as follows:
+## Part3
+This part reads at most 5 integers (File may contain fewer numbers) from a given file called “integer_inputs.txt”. For each integer you calculates the collatz sequence and prints the results into a file called “collatz_outputs.txt”.
+
+### Input (integer_inputs.txt)
+6 8 17
+
+
+### Output (collatz_outputs.txt)
