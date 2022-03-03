@@ -5,7 +5,7 @@ The homework PDF is in the repository
 ## Part1
 
 ### Description
-part1.lidp will read a file called “nested_list.txt” and converts it into a single list without any sub-lists. Output will be written into a file called “flattened_list.txt”.
+part1.lisp will read a file called “nested_list.txt” and converts it into a single list without any sub-lists. Output will be written into a file called “flattened_list.txt”.
 
 ### Input (nested_list.txt)
 ```
@@ -23,5 +23,13 @@ This part called primecrawler. This program will read two integers from a file c
 2 10
 
 ### Output (primedistribution.txt)
+2 is Prime
+3 is Prime
+4 is Semi-prime
+5 is Prime
+6 is Semi-prime
+7 is Prime
+9 is Semi-prime
+10 is Semi-prime
 
 For example: for given the input file that contains 2 and 10 we expect your output as follows:
