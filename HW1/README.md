@@ -36,7 +36,14 @@ This part called primecrawler. This program will read two integers from a file c
 This part reads at most 5 integers (File may contain fewer numbers) from a given file called “integer_inputs.txt”. For each integer you calculates the collatz sequence and prints the results into a file called “collatz_outputs.txt”.
 
 ### Input (integer_inputs.txt)
+```
 6 8 17
+```
 
 
 ### Output (collatz_outputs.txt)
+```
+6: 6 3 10 5 16 8 4 2 1 
+8: 8 4 2 1 
+17: 17 52 26 13 40 20 10 5 16 8 4 2 1
+```
