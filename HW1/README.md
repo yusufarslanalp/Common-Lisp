@@ -4,7 +4,6 @@ The homework PDF is in the repository
 
 ## Part1
 
-### Description
 part1.lisp will read a file called “nested_list.txt” and converts it into a single list without any sub-lists. Output will be written into a file called “flattened_list.txt”.
 
 ### Input (nested_list.txt)
