@@ -1,0 +1,38 @@
+(deffun sumup (x)
+(if (equal x 0)
+0
+(+ x (sumup (- x 1)))
+)
+)
+
+;;returns 10
+(sumup 4)
+
+;;returns 15
+(sumup 5)
+
+;;(2+2) * (8-4) = 16
+;;returns 16 
+(* (+ 2 2) (- 8 4))
+
+(defvar a 100)
+(defvar b 100)
+(defvar c 50)
+
+
+
+;;returns 1
+(if (equal a b)
+1
+0
+) 
+
+
+;;returns 0
+(if (equal a c)
+1
+0
+) 
+
+
+a
